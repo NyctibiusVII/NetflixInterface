@@ -64,3 +64,20 @@
 .carousel-film{
     margin-top:5px;
 }
+
+
+
+/* Scrollbar */
+/* 1 */
+::-webkit-scrollbar {
+    width: 7px;
+    background: #eeeeee;
+}
+/* 3 */
+::-webkit-scrollbar-track {
+    background-color: #eeeeee;
+}
+/* 5 */
+::-webkit-scrollbar-thumb {
+    background: #999999;
+}

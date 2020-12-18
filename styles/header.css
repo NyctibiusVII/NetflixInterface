@@ -4,12 +4,13 @@ header .container{
     align-items: center;
     justify-content: space-between;
 }
-header .logo{
-    color: var(--red-netflix);
-    font-family: 'Arial Black', Times;
-    font-size:40px;
+header img {
+    width: 105px;
+    height: 29px;
+    
+    margin: 10px 5px;
 
-    margin-left: 5px;
+    cursor: pointer;
 }
 header nav a{
     color:#AAA;
